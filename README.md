@@ -1,7 +1,7 @@
 # Hexagonal architecture
 ## Theoretical Proof of concept
 
-![Inputs/Adapters theoretical diagram](.\hexagonal_architecture.jpg "Hexagonal Architecture")
+![Inputs/Adapters theoretical diagram](./hexagonal_architecture.jpg "Hexagonal Architecture")
 
 ## Getting Started
 ### Reference Documentation
