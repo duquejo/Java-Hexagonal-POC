@@ -1,6 +1,8 @@
 # Hexagonal architecture
 ## Theoretical Proof of concept
 
+* Gradle modular version: https://github.com/duquejo/Java-Hexagonal-Modular-POC
+
 ![Inputs/Adapters theoretical diagram](./hexagonal_architecture.jpg "Hexagonal Architecture")
 
 ## Getting Started
